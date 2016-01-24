@@ -6,6 +6,8 @@
 !README.md
 
 # Whitelist bash startup files
-!$HOME/.inputrc
-!$HOME/.bash_profile
-!$HOME/.bashrc
+!.inputrc
+!.bash_profile
+!.bashrc
+!.vimrc
+!.vim
