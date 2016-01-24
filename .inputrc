@@ -71,6 +71,10 @@
   # Insert a space character then performs
   # a history expansion in the line
   #Space: magic-space
+  
+  # Tab through filename completion options
+  TAB: menu-complete
+  "\e[Z": "\e-1\C-i"
 #$endif
 
 # MSYSTEM is emacs based
