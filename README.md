@@ -1,4 +1,5 @@
-# msys2_home
-The files I've customised in the home directory of msys2
+# msys2-dotfiles
+My dotfiles for msys2.
 
-For the Makefile to link files to your home directory the windows native symlinks has to be activated in the Msys2 start bat file.
+## Linking
+The Makefile symlinks the files in the repo. For this to work you have to enable the windows native symlinks in the Msys2 start bat file. 
