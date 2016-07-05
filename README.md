@@ -8,7 +8,7 @@ The Makefile symlinks the files in the repo. For this to work you have to enable
 
 If the following is received 
 ```bash
-ln: failed to create symbolic link ‘~/file’: No such file or directory
+ln: failed to create symbolic link â€˜~/fileâ€™: No such file or directory
 ```
 
 then use the full paths 
@@ -16,3 +16,4 @@ then use the full paths
 ln -svif ~/git/msys2-dotfiles/file ~/
 ```
 
+test pull request
